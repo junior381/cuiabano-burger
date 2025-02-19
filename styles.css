@@ -62,3 +62,12 @@ font-weight: 600;
     color: var(--color-neutral1-1);
     border-bottom: 3px solid var(--color-primary-4);
 }
+
+#mobile_btn{
+    display: none;
+}
+
+#mobile_menu {
+    display: none;
+}
+
