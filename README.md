@@ -128,7 +128,7 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 <br> 
 
-💡 **Desenvolvido por [Wanderson Timóteo](https://github.com/junior381)** </div>
+💡 **Desenvolvido por [junior goncalves](https://github.com/junior381)** </div>
 
 <br> 
 
